@@ -1,1 +1,3 @@
-# servidorPoyectoIntegrador
+INICIAR EL PROYECTO CON EL SIGUIUENTE COMANDO 
+
+node server.js
